@@ -1,0 +1,11 @@
+{
+  "name": "socket.io-stream",
+  "version": "0.0.1",
+  "description": "",
+  "devDependencies": {
+    "browserify": "3.30.1"
+  },
+  "dependencies": {
+    "debug": "0.7.4"
+  }
+}
